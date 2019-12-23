@@ -16,17 +16,17 @@ import * as Spinners from 'css-spinners-react';
 ```
 and use them in a namespaced manner:
 ```js
-<Spinners.Ball />
+<Spinners.Dots />
 ```
 
 ### Import an individual spinner 
 You can also import a single loader:
 ```js
-import { Ball } from 'css-spinners-react'
+import { Dots } from 'css-spinners-react'
 ```
 and use it without any fancy namespacing:
 ```js
-<Ball />
+<Dots />
 ```
 
 ## Components
